@@ -1,0 +1,15 @@
+/Users/jeremyvillalva/coding/Bots/taskListBot/bin/Debug/net8.0/taskListBot
+/Users/jeremyvillalva/coding/Bots/taskListBot/bin/Debug/net8.0/taskListBot.deps.json
+/Users/jeremyvillalva/coding/Bots/taskListBot/bin/Debug/net8.0/taskListBot.runtimeconfig.json
+/Users/jeremyvillalva/coding/Bots/taskListBot/bin/Debug/net8.0/taskListBot.dll
+/Users/jeremyvillalva/coding/Bots/taskListBot/bin/Debug/net8.0/taskListBot.pdb
+/Users/jeremyvillalva/coding/Bots/taskListBot/obj/Debug/net8.0/taskListBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremyvillalva/coding/Bots/taskListBot/obj/Debug/net8.0/taskListBot.AssemblyInfoInputs.cache
+/Users/jeremyvillalva/coding/Bots/taskListBot/obj/Debug/net8.0/taskListBot.AssemblyInfo.cs
+/Users/jeremyvillalva/coding/Bots/taskListBot/obj/Debug/net8.0/taskListBot.csproj.CoreCompileInputs.cache
+/Users/jeremyvillalva/coding/Bots/taskListBot/obj/Debug/net8.0/taskListBot.sourcelink.json
+/Users/jeremyvillalva/coding/Bots/taskListBot/obj/Debug/net8.0/taskListBot.dll
+/Users/jeremyvillalva/coding/Bots/taskListBot/obj/Debug/net8.0/refint/taskListBot.dll
+/Users/jeremyvillalva/coding/Bots/taskListBot/obj/Debug/net8.0/taskListBot.pdb
+/Users/jeremyvillalva/coding/Bots/taskListBot/obj/Debug/net8.0/taskListBot.genruntimeconfig.cache
+/Users/jeremyvillalva/coding/Bots/taskListBot/obj/Debug/net8.0/ref/taskListBot.dll
